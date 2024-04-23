@@ -1,1 +1,2 @@
-# DL_Codes
+Terminal command-> g++ bubbleSort.cpp -lgomp -o bubbleSort                                           
+-> ./bubbleSort
